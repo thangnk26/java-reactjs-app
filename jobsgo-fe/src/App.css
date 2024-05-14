@@ -1,0 +1,29 @@
+@tailwind base;
+
+@layer base {
+    body {
+        @apply font-manrope;
+    }
+
+    th {
+        @apply border border-slate-300 p-2;
+    }
+    td {
+        @apply border border-slate-300 p-2;
+    }
+
+    ul,
+    ol {
+        list-style: revert;
+    }
+}
+
+.slick-track {
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+
+.slick-slide {
+    display: flex !important;
+    flex-direction: column !important;
+}

@@ -1,0 +1,34 @@
+{
+    "jobs": [
+        {
+            "title": "Giáo Viên Cao Cấp, Trưởng Nhóm Phát Triển Tiếng Anh Học Thuật",
+            "description": "<ul><li>Tổ chức họp định kỳ với ban giám đốc, phòng ban, tổ chức phân bổ công việc, giám sát thực hiện cho nhóm chuyên viên đào tạo, giáo viên đang quản lý.</li><li>Đảm bảo tiến độ công việc chuyên môn, các dự án học thuật của phòng học thuật.</li><li>Tham gia khâu đào tạo hội nhập nhân sự mới, phần công việc: hội nhập chuyên môn phòng ban.</li><li>Phân phối khung chương trình, tiến độ giảng dạy tới các lớp, giáo viên. Xử lý các tình huống giáo viên phát sinh (nghỉ đột xuất, chuyển đổi/thay thế giáo viên, xung đột lịch giảng dạy…)</li><li>Xây dựng nội dung cho các chương trình học tiếng Anh trực tuyến, bao gồm:</li></ul>",
+            "required": "<ul><li>Cử nhân trở lên chuyên ngành tiếng Anh tại các trường Đại học.</li><li>Hoặc các ứng viên có trình độ tiếng Anh <strong>IELTS 8.0</strong> trở lên (hoặc tương đương), đam mê ngành đào tạo tiếng Anh.</li><li><p>· Kỹ năng làm việc độc lập, chịu được áp lực công việc.</p><p>· Khả năng lập kế hoạch, thuyết trình, quản lý công việc, quản lí đội nhóm.</p><p>· Sáng tạo nhiệt tình, thái độ làm việc tích cực.</p><p>· Khả năng giao tiếp tốt, giọng nói chuẩn, ngoại hình ưa nhìn.</p></li></ul>",
+            "benefit": "<ul><li>Lương hành chính: <strong>15</strong>.<strong>000.000 đ – 18.000.000</strong> đ/tháng</li><li>Lương giảng dạy: <strong>3.000 – 400.000</strong>/giờ dạy (Pre A1 – B1);<strong> 400.000 – 600.000đ</strong>/giờ dạy (B2 – C2) <em>(Một ca dạy học từ 2 giờ - 3 giờ dạy)</em></li><li><em>TỔNG THU NHẬP THÁNG TỪ <strong>40.000.000 – 50.000.000 đ</strong></em></li><li>Được tham gia các khóa đào tạo chuyên sâu về kỹ năng, chuyên môn và tư duy trong công việc. Môi trường làm việc năng động, chuyên nghiệp. Tiếp xúc đối tác học thuật cao cấp trong nước và quốc tế. Cơ hội thăng tiến và phát triển sự nghiệp.</li></ul>",
+            "city": "Thành phố Hà Nội",
+            "district": "Quận Ba Đình",
+            "ward": "Phường Phúc Xá",
+            "specificAddress": "Số 54 Nguyễn Văn Trối",
+            "phone": "0385454545",
+            "degree": "Đại học",
+            "typePosition": "Trưởng nhóm/Trưởng phòng",
+            "gender": 0,
+            "ageStart": 18,
+            "ageEnd": 30,
+            "statusAge": false,
+            "numberYearExperienceStart": 1,
+            "numberYearExperienceEnd": 3,
+            "statusExp": false,
+            "salaryFrom": 8,
+            "salaryTo": 12,
+            "statusSalary": false,
+            "natureOfWork": "Full-time",
+            "recruiterId": 2,
+            "listCareer": [1, 2, 3],
+            "listProSkill": [1, 2, 3],
+            "listSoftSkill": [2, 3, 4],
+            "listLanguage": [1, 3, 4]
+        }
+    ],
+    "resume": [{}]
+}
